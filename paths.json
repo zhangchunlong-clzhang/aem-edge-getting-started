@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-edge-getting-started/:/",
-    "/content/aem-edge-getting-started/configuration:/.helix/config.json",
-    "/content/aem-edge-getting-started/metadata:/metadata.json"
+    "/content/aem-edge-getting-started-site/:/",
+    "/content/aem-edge-getting-started-site/configuration:/.helix/config.json",
+    "/content/aem-edge-getting-started-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-edge-getting-started/"
+    "/content/aem-edge-getting-started-site/"
   ]
 }
