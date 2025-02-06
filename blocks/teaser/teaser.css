@@ -76,8 +76,8 @@
 }
 
 .block.teaser .button {
-    /* background-color: var(--primary-color); */
-    background-color: yellow; 
+    background-color: var(--primary-color); 
+    /* background-color: yellow; */
     border-radius: 0;
     color: var(--dark-color);
     font-size: var(--body-font-size-xs);
